@@ -1,0 +1,9 @@
+# config files
+.bloop
+.metals
+.vscode
+.bsp
+
+# compiled files
+target/
+project/target/
