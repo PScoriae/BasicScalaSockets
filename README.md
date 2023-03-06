@@ -16,7 +16,9 @@
 
 # About
 
-What we have here is a rather rudimentary implementation of a client-server architecture using the Scala language and Java Sockets from the standard library. Great.
+What we have here is a rather rudimentary implementation of a client-server architecture using the Scala language and Java Sockets from the standard library.
+
+The client enters the ISBN of a book that they want to check the price of. The server then checks for that ISBN in its in-memory database and returns the price to the client. Great. How wonderful.
 
 # Prerequisites
 
