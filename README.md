@@ -32,6 +32,6 @@ Simply `git clone` this repository,
 
 Honestly, I dislike Java and Scala, or whatever runs in the JVM and enforces OOP.
 
-So, unlike a typical README that you'd find in my other repos, you're gonna have to figure it out yourself.
+It's also been a while since I ran this code or gave a damn about it. So, unlike a typical README that you'd find in my other repos, you're gonna have to figure it out yourself.
 
-Still, I don't think it's that hard to run, right? Something along the lines of `sbt compile` and `sbt run`. Have fun.
+From what I recall, I don't think it's that hard to run, right? Something along the lines of `sbt compile` and `sbt run`. Have fun.
