@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555">
   </a>
   
-  <a href="https://github.com/PScoriae/MastermindPy/blob/main/LICENSE.md">
+  <a href="https://github.com/PScoriae/BasicScalaSockets/blob/main/LICENSE.md">
     <img src="https://img.shields.io/badge/license-WTFPL-brightgreen?style=for-the-badge">
   </a>
 </p>
